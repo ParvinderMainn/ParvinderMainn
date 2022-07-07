@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ParvinderMainn
 - 👀 I’m interested in coding and building projects through my little coding skills
-- 🌱 I’m currently learning django, python, javascript
+- 🌱 I’m currently learning django, python, javascript and react native
 - 💞️ I love to collaborate 
 
 
